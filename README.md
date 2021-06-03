@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnshulMehta1
 - 👀 I’m interested in Web Development, Devops
-- 🌱 I’m currently learning Machine Learning, Node Js
+- 🌱 I’m currently learning Machine Learning, Node Js,DEVOPS
 - 💞️ I’m looking to collaborate on Machine Learning and Web Dev Projects
 - 📫 How to reach me Linkedin/ Instagram
 - https://www.linkedin.com/in/anshul-mehta-a3336a205/
