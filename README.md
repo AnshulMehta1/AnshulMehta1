@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on Machine Learning and Web Dev Projects
 - 📫 How to reach me Linkedin/ Instagram
 - https://www.linkedin.com/in/anshul-mehta-a3336a205/
+- My Youtube Channel:
+- My Blog:
+- My Portfolio Website:
 - 
 
 <!---
