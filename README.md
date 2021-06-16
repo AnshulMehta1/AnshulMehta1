@@ -5,7 +5,7 @@
 - 📫 How to reach me Linkedin/ Instagram
 - https://www.linkedin.com/in/anshul-mehta-a3336a205/
 - My Youtube Channel: Coming Soon
-- My Blog: Productivity, Acads, Career, Coding , Spirituality , Meditation and Mental Health Books ..
+- My Blog: Productivity, Acads, Career, Coding , Spirituality , Meditation and Mental Health, Books ..
 - My Portfolio Website: Under Progress
 - 
 
