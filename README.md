@@ -16,3 +16,5 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Anshuls's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshulMehta1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulMehta1)](https://github.com/anuraghazra/github-readme-stats)
+
