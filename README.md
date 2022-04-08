@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulMehta1&theme=onedark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+![anshulmehtakaggl](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{anshulmehtakaggl})
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{anshulmehtakaggl}/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{anshulmehtakaggl}/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{anshulmehtakaggl}/discussion)
