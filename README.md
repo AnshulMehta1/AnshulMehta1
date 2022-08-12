@@ -26,25 +26,26 @@ You can click the Preview link to take a look at your changes.
 
 You can find and get touch with me on these accounts!
 
-  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+  <a href="https://www.linkedin.com/in/anshul-mehta-a3336a205/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Anshul Mehta's LinkedIn Profile" height="30" width="30">
   </a>
   
-  <a href="https://medium.com/@ajzavala">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
+  <a href="https://medium.com/@anshulmehtaai">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Anshul Mehta's Medium Profile" height="30" width="30">
   </a>
   
-   <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
+  
+    
+   <a href="https://www.kaggle.com/anshulmehtakaggl">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="Anshul Mehta's Kaggle" height="30" width="30">
+  </a>
+   <a href="https://twitter.com/anshul_mehta_ai">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Anshul Mehta's Twitter" height="30" width="30">
   </a>
   
     
-   <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
-  </a>
-    
-   <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
+   <a href="#">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Anshul Mehta's YouTube Channel" height="30" width="30">
   </a>
   
   
