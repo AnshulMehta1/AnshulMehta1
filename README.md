@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnshulMehta1
 - 👀 I’m interested in Data Science and Devops
-- 🌱 I’m currently learning Machine Learning, Node Js,DEVOPS
+- 🌱 I’m currently learning GoLang, Docker, Kubernetes, PyTorch ...
 - 💞️ I’m looking to collaborate on Machine Learning and DevOps Projects
 - 📫 How to reach me Linkedin/ Instagram
 - https://www.linkedin.com/in/anshul-mehta-a3336a205/
